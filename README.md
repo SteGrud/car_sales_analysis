@@ -16,4 +16,5 @@ Após executar o aplicativo, você poderá:
 
 Clicar no botão "Criar Histograma" para visualizar a distribuição da quilometragem.
 Clicar no botão "Criar Gráfico de Dispersão" para explorar a relação entre preço e quilometragem.
-# URL do aplicativo no Render: https://car-sales-analysis-3p14.onrender.com
+# URL do aplicativo no Render: 
+https://car-sales-analysis-3p14.onrender.com
